@@ -1,2 +1,0 @@
-# PPMTool
-# StockApp
